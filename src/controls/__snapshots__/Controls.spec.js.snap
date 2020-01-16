@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Controls /> <Controls /> snapsnot 1`] = `
+<DocumentFragment>
+  <div
+    class="controls panel"
+  >
+    <button
+      class="toggle-btn"
+      disabled=""
+    >
+      Lock Gate
+    </button>
+    <button
+      class="toggle-btn"
+    >
+      Close Gate
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`<Controls /> Component <Controls /> snapsnot 1`] = `
+<DocumentFragment>
+  <div
+    class="controls panel"
+  >
+    <button
+      class="toggle-btn"
+      disabled=""
+    >
+      Lock Gate
+    </button>
+    <button
+      class="toggle-btn"
+    >
+      Close Gate
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`match snapshot for controls 1`] = `
+<DocumentFragment>
+  <div
+    class="controls panel"
+  >
+    <button
+      class="toggle-btn"
+      disabled=""
+    >
+      Lock Gate
+    </button>
+    <button
+      class="toggle-btn"
+    >
+      Close Gate
+    </button>
+  </div>
+</DocumentFragment>
+`;
